@@ -20,4 +20,4 @@ Implementing backend for dhtmlxGantt using Node.js and Express.
 
 ### Tutorial
 
-A complete tutorial can be found here https://docs.dhtmlx.com/gantt/desktop__how_to_start.html
+A complete tutorial can be found here https://docs.dhtmlx.com/gantt/desktop__howtostart_nodejs.html
