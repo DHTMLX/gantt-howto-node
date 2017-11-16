@@ -1,0 +1,21 @@
+{
+  "name": "gantt-node-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "date-format-lite": "^0.7.4",
+    "express": "^4.13.4",
+    "bluebird": "^3.5.0",
+    "promise-mysql": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
