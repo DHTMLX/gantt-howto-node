@@ -19,20 +19,16 @@ Implementing backend for dhtmlxGantt using Node.js and Express.
 
 - `node server.js`
 
-## Related resources
+### Related resources
 
 - Complete tutorial: https://docs.dhtmlx.com/gantt/desktop__howtostart_nodejs.html
-- 
+- Article in our blog: [https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/](https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/)
 - DHTMLX Gantt product page: [https://dhtmlx.com/docs/products/dhtmlxGantt/](https://dhtmlx.com/docs/products/dhtmlxGantt/)
 
-## Support Us
+### Support Us
 
 Star our GitHub repo :star:
-
 Check our [roadmap](https://trello.com/b/fhOySHPj/gantt-roadmap) for future updates :wrench:
-
 Read us on [Medium](https://medium.com/@dhtmlx) :newspaper:
-
 Follow us on [Twitter](https://twitter.com/dhtmlx) :bird:
-
 Like our page on [Facebook](https://www.facebook.com/dhtmlx/) :thumbsup:
