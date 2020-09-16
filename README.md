@@ -2,7 +2,7 @@ dhtmlxGantt with Node.js
 ========================
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-Implementing backend for dhtmlxGantt using Node.js and Express.
+Implementing backend for [DHTMLX Gantt](https://dhtmlx.com/docs/products/dhtmlxGantt/) using Node.js and Express.
 
 ### Requirements
 
@@ -23,7 +23,7 @@ Implementing backend for dhtmlxGantt using Node.js and Express.
 
 - Complete tutorial: https://docs.dhtmlx.com/gantt/desktop__howtostart_nodejs.html
 - Article in our blog: [https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/](https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/)
-- DHTMLX Gantt product page: [https://dhtmlx.com/docs/products/dhtmlxGantt/](https://dhtmlx.com/docs/products/dhtmlxGantt/)
+- Video tutorial: [https://www.youtube.com/watch?v=D8YzyzBfyP8&feature=youtu.be&ab_channel=dhtmlx](https://www.youtube.com/watch?v=D8YzyzBfyP8&feature=youtu.be&ab_channel=dhtmlx)
 
 ### Support Us
 
