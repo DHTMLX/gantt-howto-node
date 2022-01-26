@@ -1,14 +1,14 @@
 {
   "name": "gantt-node-mysql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.15.0",
-    "date-format-lite": "^0.7.4",
-    "express": "^4.13.4",
-    "bluebird": "^3.5.0",
-    "promise-mysql": "^3.0.2"
+    "body-parser": "^1.19.1",
+    "date-format-lite": "^17.7.0",
+    "express": "^4.17.2",
+    "bluebird": "^3.7.2",
+    "promise-mysql": "^5.1.0"
   },
   "devDependencies": {},
   "scripts": {
