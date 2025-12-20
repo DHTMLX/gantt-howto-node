@@ -21,9 +21,15 @@ Implementing backend for [DHTMLX Gantt](https://dhtmlx.com/docs/products/dhtmlxG
 
 ### Related resources
 
-- Complete tutorial: https://docs.dhtmlx.com/gantt/integrations/node/howtostart-nodejs/
-- Article in our blog: [https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/](https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/)
-- Video tutorial: [https://www.youtube.com/watch?v=D8YzyzBfyP8&feature=youtu.be&ab_channel=dhtmlx](https://www.youtube.com/watch?v=D8YzyzBfyP8&feature=youtu.be&ab_channel=dhtmlx)
+[Complete tutorial](https://docs.dhtmlx.com/gantt/integrations/node/howtostart-nodejs/)
+
+[Article in our blog](https://dhtmlx.com/blog/dhtmlxgantt-with-nodejs/)
+
+[Video tutorial](https://www.youtube.com/watch?v=D8YzyzBfyP8&feature=youtu.be&ab_channel=dhtmlx)
+
+[DHTMLX Gantt product page](https://dhtmlx.com/docs/products/dhtmlxGantt/)
+
+[Documentation](https://docs.dhtmlx.com/gantt/)
 
 ### Support Us
 
