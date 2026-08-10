@@ -33,7 +33,7 @@ async function serverConfig() {
 
         res.send({
           data: tasks,
-          collections: { links },
+          links
         });
       })
       .catch((error) => {
